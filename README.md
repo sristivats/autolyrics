@@ -1,5 +1,5 @@
 # 🎵 AutoLyrics
-### LoRA Fine-Tuned Whisper for Song Lyric Transcription
+### LoRA Fine-Tuned Whisper for Song Lyrics Transcription
 
 > Transform any singing audio into accurate lyrics — powered by parameter-efficient fine-tuning of OpenAI Whisper-small.
 
