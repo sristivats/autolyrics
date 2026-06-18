@@ -218,3 +218,5 @@ After training, Cell 10 launches an interactive web UI for side-by-side comparis
 | `librosa` | Audio resampling and analysis |
 | `accelerate` (HF) | Training acceleration |
 
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/0617fe8a-684d-4878-817a-c0819a445378
