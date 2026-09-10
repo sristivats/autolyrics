@@ -30,7 +30,7 @@ Standard ASR models like Whisper are trained on **spoken dialogue** and struggle
 ---
 
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 
