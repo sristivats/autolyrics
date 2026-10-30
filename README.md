@@ -35,7 +35,7 @@ Standard ASR models like Whisper are trained on **spoken dialogue** and struggle
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/autolyrics.git
+git clone https://github.com/sristivats/autolyrics.git
 cd autolyrics
 pip install torch torchaudio transformers datasets peft \
             bitsandbytes jiwer gradio accelerate librosa
